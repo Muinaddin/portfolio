@@ -52,27 +52,16 @@ Built and released a benchmark corpus of regulatory safety narratives derived fr
 
 **Research Associate** — Deggendorf Institute of Technology, Germany
 *(Jun 2023 – Sep 2026)*
-- **ScanGlobal** (BMFTR-funded): Evaluated an open-source brain-morphometry
-  decision-support tool under real-world clinical conditions, contributing
-  to study design and workflow/usability evaluation.
-- **EAsyAnon** (BMBF-funded): Designed a dataset-description schema and
-  developed a prototype recommender system for selecting health-data
-  anonymization techniques based on dataset characteristics and regulatory
-  requirements; contributed to integrating project modules into a unified
-  research prototype.
+- **ScanGlobal** (BMFTR-funded): Evaluated an open-source brain-morphometry decision-support tool under real-world clinical conditions, contributing to study design and workflow/usability evaluation.
+- **EAsyAnon** (BMBF-funded): Designed a dataset-description schema and developed a prototype recommender system for selecting health-data anonymization techniques based on dataset characteristics and regulatory requirements. Contributed to integration of project modules into a unified research prototype.
 
 **Working Student** — FotoFinder Systems GmbH, Germany
 *(Feb 2020 – Mar 2023)*
-- Curated dermatology imaging datasets (diagnostic labels + ICD coding) and
-  contributed to ISO 14971-aligned risk analysis for medical image-analysis
-  software, including risk-model development and Preliminary Hazard
-  Analysis (PHA), plus FDA MAUDE adverse-event analysis.
+- Investigated automated retrieval of safety-relevant adverse-event information from medical-device databases and contributed to ISO 14971-based risk analysis for medical image-analysis software, including risk-model development and Preliminary Hazard Analysis(PHA).
 
 **Project Facilitator** — Institute of Epidemiology, Disease Control and
 Research (IEDCR), Bangladesh *(Nov 2016 – Aug 2018)*
-- Supported antimicrobial-resistance surveillance through compilation and
-  quality control of microbiology and surveillance data across sentinel
-  sites.
+- Supported antimicrobial-resistance surveillance through compilation and quality control of microbiology and surveillance data across sentinel sites.
 
 ---
 
