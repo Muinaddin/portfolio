@@ -73,7 +73,7 @@ Research (IEDCR), Bangladesh *(Nov 2016 – Aug 2018)*
  
 - **B.Sc. in Health Informatics** (2019 – 2023),
   Deggendorf Institute of Technology, Germany.
-  Elective specialization: Data Analytics (210 ECTS).
+  Specialization: Data Analytics (210 ECTS).
  
 
 
