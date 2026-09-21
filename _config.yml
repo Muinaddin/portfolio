@@ -1,5 +1,15 @@
 title: Moin Uddin
-# logo: /assets/img/headshot_circle.png
-# #description: text below image
+logo: /assets/image_mu.png
+description: Health Informatics | Text Mining | Medical Device Safety
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+social_links:
+  # - name: CV
+  #   url: Md_Moin_Uddin_CV.pdf
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?hl=en&user=1q7afWYAAAAJ&view_op=list_works&sortby=pubdate
+  - name: GitHub
+    url: https://github.com/Muinaddin
+  # - name: LinkedIn
+  #   url: https://www.linkedin.com/

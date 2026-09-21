@@ -1,59 +1,26 @@
-# Md Moin Uddin
-
-**Health Informatics | Information Retrieval | Medical Device Safety**
-
-I work on information retrieval, NLP and data-driven methods for finding and
-structuring safety evidence from healthcare and medical-device data. Currently
-a Research Associate at the Deggendorf Institute of Technology (Germany),
-where I build data pipelines, benchmarks and decision-support tools for
-medical-device safety and health data anonymization.
-
-[CV](Md_Moin_Uddin_CV.pdf) ·
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=1q7afWYAAAAJ&view_op=list_works&sortby=pubdate) ·
-[GitHub](https://github.com/) ·
-[LinkedIn](https://www.linkedin.com/)
+I investigate how informatics methods can improve the retrieval, analysis, and use of post-market medical-device safety evidence. I apply information retrieval, text mining, and NLP/LLMs to large-scale medical-device vigilance data, including Field Safety Notices and adverse-event reports. The broader objective is to make safety evidence more accessible and useful for medical-device regulatory science, clinical evaluation, and risk assessment.
 
 ---
 
-## Research Interests
+## Research Theme
 
-- Information Retrieval
-- Medical Device Safety & Risk Management (ISO 14971)
-- Biomedical / Regulatory NLP
+- Health Informatics
+- Medical Device Safety
+- NLP & LLMs for Safety Narratives
+- Medical Software
+- Text Mining
 - Recommender Systems
-- Health Data Science
 
 ---
 
-## Featured Projects
+## Current Projects
 
 ### MedFSN-Bench
-Benchmarking LLMs on medical-device safety narratives. Processed BfArM Field
-Safety Notices (2013–2025), extracting device problems, risks/hazards and
-corrective actions, and mapping safety information to BfArM metadata and IMDRF
-Annex A/F terminology. Built a Docling/NLP pipeline with multi-LLM annotation
-and LLM-as-a-Judge verification; released an 874-instance benchmark on Zenodo.
-
-*BfArM FSNs · IMDRF · NLP · LLM evaluation — Python, Docling, Jupyter, Ollama, Hugging Face*
+Built and released a benchmark corpus of regulatory safety narratives derived from BfArM Field Safety Notices. The dataset enables systematic evaluation of LLMs for device classification, health-effect inference, and device-problem classification, supporting research on NLP for medical-device safety and regulatory science.
 
 [Paper](https://doi.org/10.1145/3807503.3819497) ·
 [Dataset](https://zenodo.org/records/20685860)
 
-### EAsyRec
-Decision support / recommender system suggesting anonymization techniques for
-tabular health datasets via metadata profiling and vector-similarity
-retrieval. Developed within the [EAsyAnon](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/easyanon)
-research project, including a browser-based application for tabular health
-data profiling.
-
-*Recommender Systems · Semantic Search · Data Anonymization — Python, PostgreSQL, pgvector, Ollama*
-
-### Adverse Events Analytics
-Data analytics framework to identify safety-relevant adverse events (FDA
-MAUDE) for medical image analysis software, supporting ISO 14971-aligned
-clinical evaluation.
-
-*Post-market surveillance · Clinical Evaluation — Python, Pandas, Jupyter, SQL, scikit-learn*
 
 ---
 
@@ -63,8 +30,7 @@ clinical evaluation.
   Corpus for Medical Device Safety.* In Proceedings of the 17th ACM
   International Conference on Bioinformatics, Computational Biology and
   Health Informatics (BCB '26), Rende (CS), Italy. ACM.
-  DOI: [10.1145/3807503.3819497](https://doi.org/10.1145/3807503.3819497)
-  (acceptance rate ≈ 17.7%) —
+  DOI: 10.1145/3807503.3819497 —
   [pdf](https://dl.acm.org/doi/pdf/10.1145/3807503.3819497)
 - **2024** — **Uddin, Md Moin**, & Ge, Mouzhi. *Streamlining Clinical
   Evaluation with Explanatory Data Analytics for Adverse Events.* In
@@ -84,42 +50,44 @@ clinical evaluation.
 
 ## Experience
 
-- **Research Associate**, Deggendorf Institute of Technology, Germany
-  (Jun 2023 – Sep 2026) — ScanGlobal (BMFTR-funded): evaluating open-source
-  brain morphometry software under real-world clinical conditions;
-  EAsyAnon: health data profiling application and anonymization recommender
-  system.
-- **Working Student**, FotoFinder Systems GmbH, Germany (Feb 2020 – Mar 2023)
-  — dermatology imaging dataset curation (diagnostic labels + ICD coding),
-  ISO 14971-aligned risk analysis, and FDA MAUDE adverse-event analysis for
-  medical image-analysis software.
+**Research Associate** — Deggendorf Institute of Technology, Germany
+*(Jun 2023 – Sep 2026)*
+- **ScanGlobal** (BMFTR-funded): Evaluated an open-source brain-morphometry
+  decision-support tool under real-world clinical conditions, contributing
+  to study design and workflow/usability evaluation.
+- **EAsyAnon** (BMBF-funded): Designed a dataset-description schema and
+  developed a prototype recommender system for selecting health-data
+  anonymization techniques based on dataset characteristics and regulatory
+  requirements; contributed to integrating project modules into a unified
+  research prototype.
+
+**Working Student** — FotoFinder Systems GmbH, Germany
+*(Feb 2020 – Mar 2023)*
+- Curated dermatology imaging datasets (diagnostic labels + ICD coding) and
+  contributed to ISO 14971-aligned risk analysis for medical image-analysis
+  software, including risk-model development and Preliminary Hazard
+  Analysis (PHA), plus FDA MAUDE adverse-event analysis.
+
+**Project Facilitator** — Institute of Epidemiology, Disease Control and
+Research (IEDCR), Bangladesh *(Nov 2016 – Aug 2018)*
+- Supported antimicrobial-resistance surveillance through compilation and
+  quality control of microbiology and surveillance data across sentinel
+  sites.
 
 ---
 
 ## Education
 
 - **M.Sc. in Applied Research in Engineering Sciences** (2023 – 2025),
-  Deggendorf Institute of Technology, Germany — Grade 1.6.
+  Deggendorf Institute of Technology, Germany.
   Specialization: AI and Data Science (90 ECTS).
   Thesis: *EAsyRec: A Decision Support System for Health Data Anonymization*
 - **B.Sc. in Health Informatics** (2019 – 2023),
-  Deggendorf Institute of Technology, Germany — Grade 2.1.
+  Deggendorf Institute of Technology, Germany.
   Elective specialization: Data Analytics (210 ECTS).
   Thesis: *Identification of Relevant Adverse Event Data for Medical Image
   Analysis Software*
 
----
-
-## Technical Areas
-
-| Area | Skills |
-| --- | --- |
-| Information Retrieval | BM25 · Dense Retrieval · Reranking · Vector Search · RAG |
-| NLP / AI | PyTorch · Transformers · LLMs · Hugging Face · Ollama · Jupyter |
-| Data | Python · SQL · Pandas · PostgreSQL · SQLite · pgvector · ETL · data validation & profiling |
-| Healthcare | BfArM FSN · FDA MAUDE · IMDRF · DICOM · ICD · SNOMED CT · LOINC |
-| Medical Device Safety | ISO 14971 · IEC 62304 · IEC 62366-1/-2 · ISO 13485 · EU MDR 2017/745 · clinical evaluation (CER) |
-| Misc | LaTeX · Shell Script · Docker · Git · Linux · VS Code · APIs |
 
 ---
 
@@ -131,14 +99,7 @@ clinical evaluation.
 
 ---
 
-## About / Contact
+## Contact
 
-Research Associate at Deggendorf Institute of Technology working at the
-intersection of health informatics, information retrieval and medical-device
-safety. Open to collaboration on medical-device safety analytics, biomedical
-NLP and health data science.
+moin.remon4@gmail.com
 
-- Google Scholar: <https://scholar.google.com/citations?hl=en&user=1q7afWYAAAAJ>
-- GitHub: <!-- add GitHub profile URL -->
-- LinkedIn: <!-- add LinkedIn profile URL -->
-- Email: <!-- add email -->

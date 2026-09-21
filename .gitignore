@@ -1,1 +1,17 @@
+# Personal / non-public source files
 Md_Moin_Uddin_CV.tex
+note.md
+
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler (local gem installs for `jekyll serve` preview)
+.bundle/
+vendor/
+
+# Editor / OS
+.vscode/
+.DS_Store
