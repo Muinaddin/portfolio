@@ -16,7 +16,7 @@ I investigate how informatics methods can improve the retrieval, analysis, and u
 ## Current Projects
 
 ### MedFSN-Bench
-Built and released a benchmark corpus of regulatory safety narratives derived from BfArM Field Safety Notices. The dataset enables systematic evaluation of LLMs for device classification, health-effect inference, and device-problem classification, supporting research on NLP for medical-device safety and regulatory science.
+A testbed for evaluating LLMs on medical-device safety narratives derived from BfArM Field Safety Notices. It supports systematic evaluation across three tasks: device classification, health effect inference, and device problem classification, providing a reusable resource for NLP research in medical-device safety and regulatory science.
 
 [Paper](https://doi.org/10.1145/3807503.3819497) ·
 [Dataset](https://zenodo.org/records/20685860)
