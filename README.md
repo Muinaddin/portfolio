@@ -53,7 +53,7 @@ A testbed for evaluating LLMs on medical-device safety narratives derived from F
 **Research Associate** — Deggendorf Institute of Technology, Germany
 *(Jun 2023 – Sep 2026)*
 - **ScanGlobal** (BMFTR-funded): Evaluated an open-source brain-morphometry decision-support tool under real-world clinical conditions, contributing to study design and workflow/usability evaluation.
-- **EAsyAnon** (BMBF-funded): Designed a dataset-description schema and developed a prototype recommender system for selecting health-data anonymization techniques based on dataset characteristics and regulatory requirements. Contributed to integration of project modules into a unified research prototype.
+- **EAsyAnon** (BMBF-funded): Analyzed regulatory requirements for health-data anonymization and developed a prototype decision-support system that recommends anonymization techniques using dataset characteristics and metadata.
 
 **Working Student** — FotoFinder Systems GmbH, Germany
 *(Feb 2020 – Mar 2023)*
