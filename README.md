@@ -70,12 +70,11 @@ Research (IEDCR), Bangladesh *(Nov 2016 – Aug 2018)*
 - **M.Sc. in Applied Research in Engineering Sciences** (2023 – 2025),
   Deggendorf Institute of Technology, Germany.
   Specialization: AI and Data Science (90 ECTS).
-  Thesis: *EAsyRec: A Decision Support System for Health Data Anonymization*
+ 
 - **B.Sc. in Health Informatics** (2019 – 2023),
   Deggendorf Institute of Technology, Germany.
   Elective specialization: Data Analytics (210 ECTS).
-  Thesis: *Identification of Relevant Adverse Event Data for Medical Image
-  Analysis Software*
+ 
 
 
 ---
